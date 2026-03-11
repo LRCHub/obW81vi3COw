@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "WATER BLUE NEW WORLD",
+  "base_artist": "Aqours",
+  "createdAt": "2026-03-11T06:34:28.851021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_WATER_BLUE_NEW_WORLD_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/02_WATER_BLUE_NEW_WORLD_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/03_WATER_BLUE_NEW_WORLD_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD【第12話挿入歌(TVサイズ)】",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/04_WATER_BLUE_NEW_WORLD【第12話挿入歌(TVサイズ)】_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD (Off Vocal)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/05_WATER_BLUE_NEW_WORLD_(Off_Vocal)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD - 【TVアニメ2期第12話挿入歌 (TVサイズ)】",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/06_WATER_BLUE_NEW_WORLD_-_【TVアニメ2期第12話挿入歌_(TVサイズ)】_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD [第12話挿入歌(TVサイズ)]",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/07_WATER_BLUE_NEW_WORLD_[第12話挿入歌(TVサイズ)]_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD (黒澤ルビィ Solo Ver.)",
+      "artist": "黒澤ルビィ(CV.降幡愛)",
+      "has_synced": true,
+      "path": "select/08_WATER_BLUE_NEW_WORLD_(黒澤ルビィ_Solo_Ver.)_黒澤ルビィ(CV.降幡愛).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD【TVアニメ2期第12話挿入歌 (TVサイズ)】",
+      "artist": "加藤達也",
+      "has_synced": true,
+      "path": "select/09_WATER_BLUE_NEW_WORLD【TVアニメ2期第12話挿入歌_(TVサイズ)】_加藤達也.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WATER BLUE NEW WORLD【第12話挿入歌 (TVサイズ)】",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/10_WATER_BLUE_NEW_WORLD【第12話挿入歌_(TVサイズ)】_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WATER BLUE NEW WORLD",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_WATER_BLUE_NEW_WORLD_Aqours.txt"
+    }
+  ]
+}
